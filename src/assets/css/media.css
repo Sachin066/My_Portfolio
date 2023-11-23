@@ -1,0 +1,463 @@
+@media screen and (max-width: 1024px) {
+    
+    .secondary-btn{
+        font-size: 0.8rem;
+    }
+    .title{
+        font-size: 3rem;
+    }
+    .home{
+        min-height: 700px;
+    }
+    .home-title p{
+        font-size: 0.8rem;
+        letter-spacing: 0.2rem;
+    }
+    .para-text{
+        font-size: 0.7rem;
+    }
+    .home-right{
+        width: 45vw;
+    }
+    .social-icons a{
+        font-size: 1.3rem;
+    }
+    .home-data,
+    .home-right-data{
+        padding-block: 10px;
+    }
+    .element-1{
+        width: 365px;
+        right: 95px;
+        top: 50px;
+    }
+    .element-3{
+        width: 510px;
+    }
+    .element-4{
+        bottom: 290px;
+        width: 140px;
+        left: 190px;
+    }
+    .element-5{
+        top: 20px;
+        right: -15px;
+        width: 50px;
+    }
+    .projects h3{
+        font-size: 1rem;
+    }
+    .about{
+        min-height: 1200px;
+    }
+    .project-card a{
+        font-size: 0.8rem;
+    }
+    .blob-1{
+        left: 6px;
+    width: 49%;
+    top: 88px;
+    }
+    .blob-2{
+        width: 38%;
+    /* opacity: .8; */
+    bottom: 150px;
+    right: 20px;
+    }
+    .contact-h1{
+        display: none;
+    }
+    .scroll-up{
+        right: 1rem;
+        bottom: 1rem;
+        font-size: 1.3rem;
+        padding: 0.5rem 0.6rem;
+    }
+    
+}
+
+@media screen and (max-width: 768px) {
+    
+    .nav-links{
+        position: absolute;
+        right: -100%;
+        top: 116%;
+        width: 100%;
+        padding: 5rem 0;
+        transition: 0.2s;
+        height: 100vh;
+        background: transparent;
+        box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+        backdrop-filter: blur( 15px );
+        -webkit-backdrop-filter: blur( 15px );
+
+    }
+    .nav-links.active{
+        right: 0;
+    }
+    .nav-links ul{
+        flex-direction: column;
+    }
+    
+    .nav-container{
+        overflow: initial;
+    }
+    .nav-img{
+        flex-basis: 180px;
+    }
+    .menu-icon{
+        display: block;
+        color: white;
+        font-size: 2rem;
+    }
+    /* .element-1,
+    .element-3,
+    .element-4,
+    .element-5{
+        display: none;
+    } */
+    .home{
+        min-height: 1270px;
+    }
+    .home-container{
+        flex-direction: column;
+    }
+    .home-left{
+        width: 100%;
+    }
+    .home-data{
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+    .title{
+        font-size: 5rem;
+    }
+    .home-title{
+        align-items: center;
+    }
+    .para-text{
+        text-align: center;
+        font-size: 1rem;
+    }
+    .home-right{
+        justify-content: center;
+        width: 100%;
+    }
+    .social-icons a{
+        font-size: 1.5rem;
+    }
+    .element-1{
+        width: 525px;
+        right: 127px;
+        top: 510px;
+        rotate: 140deg;
+    }
+    .element-4{
+        width: 190px;
+        left: 517px;
+        top: 375px;
+        opacity: .2;
+    }
+    
+    .element-3{
+        width: 500px;
+    }
+    .para-text{
+        margin-bottom: 70px;
+    }
+    .element-5{
+        top: 90px;
+        right: 220px;
+        width: 50px;
+    }
+
+    .about-content-1{
+        flex-direction: column-reverse;
+        gap: 3rem;
+    }
+    .about-contnent-1-data{
+        width: 100%;
+        align-items: center;
+    }
+    .about-contnent-1-data p{
+        text-align: center;
+    }
+    .qualification{
+        align-items: center;
+    }
+    .skills{
+        align-items: center;
+    }
+    .about-content-1-img {
+        width: 70%;
+    }
+    .about-content-2{
+        flex-direction: column;
+    }
+    .about-content-2-data{
+        width: 100%;
+        align-items: center;
+    }
+    .about-content-2-data p{
+        text-align: center;
+        font-size: 0.7rem;
+        width: 60%;
+    }
+    .about-content-2-img {
+        justify-content: center;
+    }
+    .about{
+        min-height: 1730px;
+    }
+    .project-box{
+        gap: 2rem;
+        justify-content: center;
+    }
+    .project-card{
+        width: 40%;
+    }
+    .contact-box{
+        flex-direction: column;
+        gap: 2rem;
+    }
+    .contact-left{
+        width: 100%;
+        align-items: center;
+    }
+    .contact-details{
+        align-items: center;
+    }
+    .contact-right{
+        width: 100%;
+    }
+    .blob-1{
+        left: 125px;
+        top: 440px;
+        width: 75%;
+    }
+    .blob-2{
+        right: 228px;
+        width: 40%;
+        bottom: 60px;
+    }
+    .element-2{
+        width: 80%;
+    }
+    .scrollup{
+        right: 1rem;
+        font-size: 1.2rem;
+        padding: 0.5rem;
+    }
+    .show-scroll{
+        bottom: 2rem;
+    }
+}
+
+
+@media screen and (max-width: 425px) {
+    h2{
+        font-size: 1.7rem;
+        font-weight: 500;
+    }
+    h3{
+        font-size: 1.2rem;
+        font-weight: 400;
+    }
+    .home{
+        min-height: 900px;
+    }
+    .title{
+        font-size: 2.7rem;
+    }
+    .para-text{
+        font-size: 0.6rem;
+    }
+    .nav-img{
+        flex-basis: 140px;
+    }
+    .element-1{
+        width: 277px;
+        right: 75px;
+        top: 448px;
+    }
+    .element-3{
+        width: 445px;
+    }
+    .element-4{
+        width: 114px;
+        left: 280px;
+        top: 310px;
+        opacity: .2;
+    }
+    .element-5{
+        top: 70px;
+        right: 110px;
+        width: 50px;
+    }
+    .about-contnent-1-data p{
+        font-size: 0.7rem;
+    }
+    .logos img{
+        width: 25px;
+    }
+    .about-content-1{
+        gap: 2rem;
+    }
+    .about-content{
+        gap: 1rem;
+    }
+    .about-content-1-img {
+        width: 90%;
+    }
+    .about-content-2{
+        gap: 2rem;
+    }
+    .about-content-2-data{
+        width: 100%;
+    }
+    .about-content-2-data p{
+        width: 100%;
+    }
+    .hire-me{
+        width: 100%;
+        text-align: center;
+    }.about-content-2-img{
+        width: 80%;
+    }
+    .about{
+        min-height: 1500px;
+    }
+    .project-container{
+        padding-top: 115px;
+        gap: 3rem;
+    }
+    .project-card{
+        width: 95%;
+        padding: 1rem;
+    }
+    .contact-box{
+        padding: 1rem;
+    }
+    .input-mail{
+        flex-direction: column;
+    }
+    .blob-1{
+        left: 37px;
+        top: 400px;
+        width: 90%;
+        opacity: 0.6;    
+    }
+    .blob-2{
+        right: 70px;
+        width: 70%;
+        bottom: 60px;
+    }
+
+    .scrollup{
+        right: 1rem;
+        font-size: 1rem;
+        padding: 0.5rem;
+    }
+}
+
+
+@media screen and (max-width: 375px) {
+    .home{
+        min-height: 830px;
+    }
+    .title{
+        font-size: 2.3rem;
+    }
+    .para-text{
+        font-size: 0.6rem;
+    }
+    .element-1{
+        width: 255px;
+        right: 61px;
+        top: 435px;
+    }
+    .element-4{
+        left: 250px;
+    }
+    .element-5{
+        top: 65px;
+        right: 118px;
+    }
+    .blob-1{
+        left: 37px;
+        top: 480px;
+        width: 85%;
+        opacity: 0.6;    
+    }
+    .blob-2{
+        right: 60px;
+        width: 70%;
+        bottom: 45px;
+    }
+    .scroll-up{
+        right: 1rem;
+        bottom: 1rem;
+        font-size: 1rem;
+        padding: 0.5rem;
+    }
+    .logos{
+        flex-wrap: wrap;
+        gap: 35px;
+        justify-content: center;
+    }
+    .logos img{
+        width: 30px;
+    }
+    .scrollup{
+        right: 1rem;
+        font-size: 1rem;
+        padding: 0.5rem;
+    }
+    .project-card{
+        padding: 1rem;
+    }
+}
+@media screen and (max-width: 320px) {
+    .element-4{
+        left: 210px;
+        width: 80px;
+        top: 340px;
+    }
+    .element-1{
+        right: 33px;
+    }
+    .container{
+        padding-inline: 
+        10px;
+    }
+    .logos{
+        flex-wrap: wrap;
+        gap: 35px;
+        justify-content: center;
+    }
+    .logos img{
+        width: 30px;
+    }
+    .project-card{
+        width: 100%;
+    }
+    .blob-1{
+        width: 90%;
+        left: 20px;
+    }
+    .blob-2{
+        bottom: 90px;
+    }
+    .project-box{
+        padding: 1rem;
+    }
+    .project-card{
+        padding: 1rem;
+    }
+    .scrollup{
+        right: 3rem;
+        font-size: 1rem;
+        padding: 0.5rem;
+    }
+}
