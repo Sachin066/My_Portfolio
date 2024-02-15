@@ -35,7 +35,7 @@ export default function Header() {
           </div>
           <div className="home-right flex">
             <div className="home-right-data">
-              <img src={hero} alt=""className="home-right-img"/> 
+              <img src="" alt=""className="home-right-img"/> 
               <div className="social-icons flex">
                 <a href="https://github.com/Sachin066" target="_blank"> <i className="fa-brands fa-square-github"></i> </a>
                 <a href="https://www.linkedin.com/in/sachin-saroj-86206b230/" target="_blank"> <i className="fa-brands fa-linkedin"></i> </a>

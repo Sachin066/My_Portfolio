@@ -3,6 +3,7 @@ import About_wave from "../assets/imgs/about-wave.png";
 import Blob_1 from "../assets/imgs/blob.png";
 import Element_1 from "../assets/imgs/element-2.png";
 import Codeimg from "../assets/imgs/3d-code.png";
+ 
 
 export default function About() {
   return (
@@ -33,14 +34,14 @@ export default function About() {
                 <div className="skills flex">
                   <h3>Skilled in</h3>
                   <div className="logos flex">
-                    <img src="#" alt="HTML" />
-                    <img src="#" alt="CSS" />
-                    <img src="#" alt="JS" />
-                    <img src="#" alt="REACT JS" />
-                    <img src="#" alt="ANDROID" />
-                    <img src="#" alt="GIT" />
-                    <img src="#" alt="GITHUB" />
-                    <img src="#" alt="FIGMA" />
+                    <img src={ require('../assets/imgs/html.png') } alt="HTML" />
+                    <img src={ require('../assets/imgs/css.png') } alt="CSS" />
+                    <img src={ require('../assets/imgs/js.png') } alt="JS" />
+                    <img src={ require('../assets/imgs/c++.png') } alt="REACT JS" />
+                    <img src={ require('../assets/imgs/c++.png') } alt="ANDROID" />
+                    <img src={ require('../assets/imgs/c++.png') } alt="GIT" />
+                    <img src={ require('../assets/imgs/c++.png') }alt="GITHUB" />
+                    <img src={ require('../assets/imgs/c++.png') } alt="FIGMA" />
                   </div>
                 </div>
               </div>
