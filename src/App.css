@@ -22,6 +22,7 @@
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
+    scrollbar-width: none;
 }
 body{
     font-family: var(--secondary-font);
@@ -203,9 +204,12 @@ nav{
 .home-container{
     gap: 20px;
     z-index: 999;
+    margin-left: 115px;
+    margin-top: 75px;
+
 }
 .home-left{
-    width: 40vw;
+    width: 235vw;
 }
 .home-right{
     width: 40vw;

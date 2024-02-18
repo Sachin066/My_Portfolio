@@ -357,6 +357,11 @@ nav{
 }
 .logos img{
     width: 30px;
+
+    /* width: 15%;
+    aspect-ratio: 3/2;
+    object-fit: contain;
+    mix-blend-mode: color-burn; */
 }
 
 /* ABOUT CONTNENT 2 */

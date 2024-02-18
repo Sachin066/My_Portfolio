@@ -3,6 +3,7 @@ import About_wave from "../assets/imgs/about-wave.png";
 import Blob_1 from "../assets/imgs/blob.png";
 import Element_1 from "../assets/imgs/element-2.png";
 import Codeimg from "../assets/imgs/3d-code.png";
+
  
 
 export default function About() {
@@ -37,11 +38,11 @@ export default function About() {
                     <img src={ require('../assets/imgs/html.png') } alt="HTML" />
                     <img src={ require('../assets/imgs/css.png') } alt="CSS" />
                     <img src={ require('../assets/imgs/js.png') } alt="JS" />
-                    <img src={ require('../assets/imgs/c++.png') } alt="REACT JS" />
-                    <img src={ require('../assets/imgs/c++.png') } alt="ANDROID" />
-                    <img src={ require('../assets/imgs/c++.png') } alt="GIT" />
-                    <img src={ require('../assets/imgs/c++.png') }alt="GITHUB" />
-                    <img src={ require('../assets/imgs/c++.png') } alt="FIGMA" />
+                    <img src={ require('../assets/imgs/React.png') } alt="REACT JS" />
+                    <img src={ require('../assets/imgs/android.png') } alt="ANDROID" />
+                    <img src={ require('../assets/imgs/git.png') } alt="GIT" />
+                    <img src={ require('../assets/imgs/github.png') }alt="GITHUB" />
+                    <img src={ require('../assets/imgs/figma.png') } alt="FIGMA" />
                   </div>
                 </div>
               </div>
@@ -49,16 +50,12 @@ export default function About() {
 
             <div className="about-content-2 flex">
               <div className="about-content-2-data flex">
-                <h3>Beyond the Code</h3>
+                <h3>Info</h3>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod
-                  aspernatur suscipit ratione dolor cum laudantium quisquam
-                  nihil excepturi placeat sapiente?
+                  I am a B.Sc. Computer Science student, with good problem solving skills. Sound knowladge in HTML5, CSS, Javascript, framework like Bootstrap and library like ReactJS.
                 </p>
                 <p>
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                  Deleniti necessitatibus quam, culpa quod sed totam repudiandae
-                  porro odio dolorum id!
+                Looking to start my career as Fresher entry-level Software Developer with a reputed firm driven by technology.
                 </p>
                 <a href="#contact" className="primary-btn hire-me">
                   HIRE ME
