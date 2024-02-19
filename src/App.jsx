@@ -1,7 +1,9 @@
 import Navbar from "./components/Navbar";
 import Header from "./components/Header";
 import About from "./components/About";
+import AndroidProjects from "./components/AndeoidProjects";
 import "./App.css";
+import WedProjects from "./components/WedProjects";
 
 function App() {
   return (
@@ -9,51 +11,20 @@ function App() {
       {/* Navbar */}
       <Navbar />
 
-      {/* header */}
+      {/* Header */}
       <Header />
 
-      {/* <!-- about section --> */}
+      {/* About section */}
       <About />
 
-      
-     
-      {/* project  section 
+      {/* android project  section */}
+      <AndroidProjects />
 
-<section className="projects" id="projects">
-    <img src="#" alt="" className="project-wave"/>
-    <div className="project-container container flex">
-        <h2 className="project-h2">My Projects</h2>
-        <div className="project-box flex">
+      {/* android project  section */}
+      <WedProjects />
 
-            <div className="project-card flex">
-                <div className="project-img">
-                    <img src="#" alt=""/>
-                </div>
-                <h3>IELTS Landing Page</h3>
-                <a href="#" target="_blank">Live Preview</a>
-            </div>
-            
 
-            <div className="project-card flex">
-                <div className="project-img">
-                    <img src="#" alt=""/>
-                </div>
-                <h3>Ecommerce Store</h3>
-                <a href="#" target="_blank">Live Preview</a>
-            </div>
 
-            <div className="project-card flex">
-                <div className="project-img">
-                    <img src="#" alt=""/>
-                </div>
-                <h3>Coffee Landing Page</h3>
-                <a href="#" target="_blank">Live Preview</a>
-            </div>
-        </div>
-        
-    </div>
-</section>
- */}
 
       {/* contact section */}
 

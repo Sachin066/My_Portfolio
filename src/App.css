@@ -414,11 +414,11 @@ nav{
 .projects h3{
     font-size: 1.2rem;
 }
-.project-container{
-    padding: 180px var(--padding-inline) ;
+.project-container {
+    padding: 65px var(--padding-inline);
     flex-direction: column;
     gap: 5rem;
-    padding-bottom: 100px;
+    padding-bottom: 250px;
 }
 .project-box{
     justify-content: space-between;
@@ -426,7 +426,7 @@ nav{
     padding: 2rem;
 }
 .project-card{
-    width: 30%;
+    width: 25%;
     flex-direction: column;
     background: rgba( 255, 255, 255, 0.3 );
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );

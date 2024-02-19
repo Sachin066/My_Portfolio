@@ -26,7 +26,7 @@ export default function Header() {
                 {/* "Unlocking Digital Potential with Creative Frontend Solutions. <br/>
                     Transforming Ideas into Seamless User Experiences. <br/>
                     Your Vision, My Code – Let's Build the Web Together." */}
-                <img src={img5} alt="" className="element-5" />
+                {/* <img src={img5} alt="" className="element-5" /> */}
               </p>
               <a href="#contact" className="primary-btn flex">
                 Hire Me
