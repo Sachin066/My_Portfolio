@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/My_Portfolio/static/css/main.8674f732.css",
+    "main.js": "/My_Portfolio/static/js/main.af851032.js",
+    "static/js/787.128fc6e9.chunk.js": "/My_Portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/Chat-App.apk": "/My_Portfolio/static/media/Chat-App.7ad5c05a6bf06aa352dd.apk",
+    "static/media/element-2.png": "/My_Portfolio/static/media/element-2.efe8ed9c638b2f984c81.png",
+    "static/media/element-1.png": "/My_Portfolio/static/media/element-1.3284bb2aff8da96452b4.png",
+    "static/media/Web.jpg": "/My_Portfolio/static/media/Web.7f8e10a5abc068581bf3.jpg",
+    "static/media/element-3.png": "/My_Portfolio/static/media/element-3.cd72f076042f00e7a02f.png",
+    "static/media/3d-code.png": "/My_Portfolio/static/media/3d-code.241a11ad1f2c0b1a8a55.png",
+    "static/media/Android.jpg": "/My_Portfolio/static/media/Android.5603e84485858cfd22ec.jpg",
+    "static/media/sachin.png": "/My_Portfolio/static/media/sachin.81c27a17659f446c1a55.png",
+    "static/media/chatapp.jpg": "/My_Portfolio/static/media/chatapp.f01414e69a36f342dcc7.jpg",
+    "static/media/android.png": "/My_Portfolio/static/media/android.9131e499d50ba43cdb71.png",
+    "static/media/React.png": "/My_Portfolio/static/media/React.702a26a65699561606d2.png",
+    "static/media/educourses .png": "/My_Portfolio/static/media/educourses .70c0cbf9da5e68d06ca5.png",
+    "static/media/NAV-LOGO.png": "/My_Portfolio/static/media/NAV-LOGO.18b668a74cdc72df0ae4.png",
+    "static/media/js.png": "/My_Portfolio/static/media/js.1707d09a3f6f31bb97e8.png",
+    "static/media/element-5.png": "/My_Portfolio/static/media/element-5.2f7d298804345c260dab.png",
+    "static/media/blob.png": "/My_Portfolio/static/media/blob.716523a964d5b1d97dc0.png",
+    "static/media/project-wave.png": "/My_Portfolio/static/media/project-wave.93bbdc02b8556440ad1a.png",
+    "static/media/about-wave.png": "/My_Portfolio/static/media/about-wave.f9451ff104b5116c8fca.png",
+    "static/media/github.png": "/My_Portfolio/static/media/github.2259866662ade3785d4d.png",
+    "static/media/html.png": "/My_Portfolio/static/media/html.8b0671bbb374f27486c0.png",
+    "static/media/css.png": "/My_Portfolio/static/media/css.92d949a0c38ca55863ff.png",
+    "index.html": "/My_Portfolio/index.html",
+    "main.8674f732.css.map": "/My_Portfolio/static/css/main.8674f732.css.map",
+    "main.af851032.js.map": "/My_Portfolio/static/js/main.af851032.js.map",
+    "787.128fc6e9.chunk.js.map": "/My_Portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8674f732.css",
+    "static/js/main.af851032.js"
+  ]
+}
