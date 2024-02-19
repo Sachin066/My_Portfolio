@@ -1,5 +1,5 @@
 import React from 'react'
-import 'https://kit.fontawesome.com/0832709e03.js'
+// import 'https://kit.fontawesome.com/0832709e03.js'
 import img1 from '../assets/imgs/element-1.png';
 import img3 from '../assets/imgs/element-3.png';
 import img5 from '../assets/imgs/element-5.png';

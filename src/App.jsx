@@ -79,10 +79,10 @@ function App() {
       </a>
 
       {/*  scroll reveal */}
-      <script src="./assets/js/scroll.js"></script>
+      {/* <script src="./assets/js/scroll.js"></script> */}
 
       {/*  link js */}
-      <script src="./assets/js/main.js"></script>
+      {/* <script src="./assets/js/main.js"></script> */}
     </>
   );
 }
