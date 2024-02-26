@@ -1,5 +1,6 @@
 import React from 'react'
-// import 'https://kit.fontawesome.com/0832709e03.js'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faGithubSquare, faLinkedin, faTwitterSquare, faInstagramSquare } from '@fortawesome/free-brands-svg-icons';
 import img1 from '../assets/imgs/element-1.png';
 import img3 from '../assets/imgs/element-3.png';
 import img5 from '../assets/imgs/element-5.png';
@@ -37,10 +38,16 @@ export default function Header() {
             <div className="home-right-data">
               <img src="" alt=""className="home-right-img"/> 
               <div className="social-icons flex">
-                <a href="https://github.com/Sachin066" target="_blank"> <i className="fa-brands fa-square-github"></i> </a>
+                {/* <a href="https://github.com/Sachin066" target="_blank"> <i className="fa-brands fa-square-github"></i> </a>
                 <a href="https://www.linkedin.com/in/sachin-saroj-86206b230/" target="_blank"> <i className="fa-brands fa-linkedin"></i> </a>
                 <a href="https://twitter.com/Sachin___066" target="_blank"> <i className="fa-brands fa-square-twitter"></i> </a>
-                <a href="https://www.instagram.com/sachin___0013/" target="_blank"> <i className="fa-brands fa-square-instagram"></i> </a>
+                <a href="https://www.instagram.com/sachin___0013/" target="_blank"> <i className="fa-brands fa-square-instagram"></i> </a> */}
+
+                <a href="https://github.com/Sachin066" target="_blank"> <FontAwesomeIcon icon={faGithubSquare} /> </a>
+                <a href="https://www.linkedin.com/in/sachin-saroj-86206b230/" target="_blank"> <FontAwesomeIcon icon={faLinkedin} /> </a>
+                <a href="https://twitter.com/Sachin___066" target="_blank"> <FontAwesomeIcon icon={faTwitterSquare} /> </a>
+                <a href="https://www.instagram.com/sachin___0013/" target="_blank"> <FontAwesomeIcon icon={faInstagramSquare} /> </a>
+
               </div>
             </div>
           </div>

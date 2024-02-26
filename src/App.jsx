@@ -78,6 +78,8 @@ function App() {
         <i className="fa-solid fa-arrow-up"></i>
       </a>
 
+      <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
       {/*  scroll reveal */}
       {/* <script src="./assets/js/scroll.js"></script> */}
 

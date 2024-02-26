@@ -1,6 +1,6 @@
 ### My Portfolio
 
-Hi 👋! My name is Sachin...
+Hi 👋! My Name is Sachin...
 
 ### [Visit My Portfolio](https://sachin066.github.io/My_Portfolio/)
 
