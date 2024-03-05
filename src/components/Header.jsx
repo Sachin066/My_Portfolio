@@ -29,9 +29,9 @@ export default function Header() {
                     Your Vision, My Code – Let's Build the Web Together." */}
                 {/* <img src={img5} alt="" className="element-5" /> */}
               </p>
-              <a href="#contact" className="primary-btn flex">
-                Hire Me
-              </a>
+              {/* <a href="#contact" className="primary-btn flex">Download CV</a> */}
+              <a className="primary-btn flex" href={require("../assets/Downloadable/DownloadCV.pdf")} download="Download CV">Download CV</a>
+
             </div>
           </div>
           <div className="home-right flex">
