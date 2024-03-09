@@ -4,6 +4,7 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import AndroidProjects from "./components/AndeoidProjects";
 import "./App.css";
+// import "./assets/css/media.css"
 import WedProjects from "./components/WedProjects";
 
 function App() {
