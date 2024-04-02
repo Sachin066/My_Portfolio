@@ -35,11 +35,11 @@ function App() {
 
       <script src="https://kit.fontawesome.com/a076d05399.js"></script>
 
-      {/*  scroll reveal */}
-      {/* <script src="./assets/js/scroll.js"></script> */}
+       {/* scroll reveal */}
+      <script src="./assets/js/scroll.js"></script>
 
       {/*  link js */}
-      {/* <script src="./assets/js/main.js"></script> */}
+      <script src="./assets/js/main.js"></script>
     </>
   );
 }
