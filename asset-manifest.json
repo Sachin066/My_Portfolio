@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My_Portfolio/static/css/main.8674f732.css",
-    "main.js": "/My_Portfolio/static/js/main.b4855789.js",
+    "main.js": "/My_Portfolio/static/js/main.9d134330.js",
     "static/js/787.128fc6e9.chunk.js": "/My_Portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/Chat-App.apk": "/My_Portfolio/static/media/Chat-App.7ad5c05a6bf06aa352dd.apk",
     "static/media/element-2.png": "/My_Portfolio/static/media/element-2.efe8ed9c638b2f984c81.png",
@@ -12,9 +12,9 @@
     "static/media/Android.jpg": "/My_Portfolio/static/media/Android.5603e84485858cfd22ec.jpg",
     "static/media/sachin.png": "/My_Portfolio/static/media/sachin.81c27a17659f446c1a55.png",
     "static/media/chatapp.jpg": "/My_Portfolio/static/media/chatapp.f01414e69a36f342dcc7.jpg",
+    "static/media/DownloadCV.pdf": "/My_Portfolio/static/media/DownloadCV.e4ba40bb8c1439edf0bc.pdf",
     "static/media/android.png": "/My_Portfolio/static/media/android.9131e499d50ba43cdb71.png",
     "static/media/React.png": "/My_Portfolio/static/media/React.702a26a65699561606d2.png",
-    "static/media/DownloadCV.pdf": "/My_Portfolio/static/media/DownloadCV.058b18c80edd6aff3d29.pdf",
     "static/media/educourses .png": "/My_Portfolio/static/media/educourses .70c0cbf9da5e68d06ca5.png",
     "static/media/NAV-LOGO.png": "/My_Portfolio/static/media/NAV-LOGO.18b668a74cdc72df0ae4.png",
     "static/media/js.png": "/My_Portfolio/static/media/js.1707d09a3f6f31bb97e8.png",
@@ -27,11 +27,11 @@
     "static/media/css.png": "/My_Portfolio/static/media/css.92d949a0c38ca55863ff.png",
     "index.html": "/My_Portfolio/index.html",
     "main.8674f732.css.map": "/My_Portfolio/static/css/main.8674f732.css.map",
-    "main.b4855789.js.map": "/My_Portfolio/static/js/main.b4855789.js.map",
+    "main.9d134330.js.map": "/My_Portfolio/static/js/main.9d134330.js.map",
     "787.128fc6e9.chunk.js.map": "/My_Portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8674f732.css",
-    "static/js/main.b4855789.js"
+    "static/js/main.9d134330.js"
   ]
 }
