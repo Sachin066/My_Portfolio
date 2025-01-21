@@ -36,10 +36,12 @@ export default function About() {
                 <div className="skills flex">
                   <h3>Skilled in</h3>
                   <div className="logos flex">
+                    <img src={ require('../assets/imgs/React.png') } alt="REACT JS" />
+                    <img src={ require('../assets/imgs/tellwin.png') } alt="REACT JS" />
                     <img src={ require('../assets/imgs/html.png') } alt="HTML" />
                     <img src={ require('../assets/imgs/css.png') } alt="CSS" />
                     <img src={ require('../assets/imgs/js.png') } alt="JS" />
-                    <img src={ require('../assets/imgs/React.png') } alt="REACT JS" />
+                    
                     <img src={ require('../assets/imgs/android.png') } alt="ANDROID" />
                     <img src={ require('../assets/imgs/git.png') } alt="GIT" />
                     <img src={ require('../assets/imgs/github.png') }alt="GITHUB" />
