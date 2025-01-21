@@ -3,6 +3,7 @@ import About_wave from "../assets/imgs/about-wave.png";
 import Blob_1 from "../assets/imgs/blob.png";
 import Element_1 from "../assets/imgs/element-2.png";
 import Codeimg from "../assets/imgs/3d-code.png";
+import Coding2 from '../assets/imgs/Codinh2.png'
 
  
 
@@ -62,7 +63,7 @@ export default function About() {
                 </a>
               </div>
               <div className="about-content-2-img flex">
-                <img src="#" alt="" />
+                <img src={Coding2} alt="" />
               </div>
             </div>
           </div>

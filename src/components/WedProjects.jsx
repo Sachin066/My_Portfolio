@@ -12,7 +12,7 @@ export default function WedProjects() {
 
             <div className="project-card flex">
                 <div className="project-img">
-                <img src={ require('../assets/imgs/educourses .png') } alt="chatapp" />
+                <img src={ require('../assets/imgs/educourses.png') } alt="chatapp" />
                 </div>
                 <h3>EduCourses</h3>
                 <a href="https://github.com/Sachin066/College_Project_EduCourses" target="_blank">View Project</a>
